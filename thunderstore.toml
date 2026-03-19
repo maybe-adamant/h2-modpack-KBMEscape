@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "KBMEscape"
 versionNumber = "1.0.0"
 description = "KBM Escape will now work during boon/pom Selection, Hex selection, PoS menu, and during death sequences."
-websiteUrl = "https://github.com/maybe-adamant/h2-pack-KBMEscape"
+websiteUrl = "https://github.com/maybe-adamant/h2-modpack-KBMEscape"
 containsNsfwContent = false
 
 [package.dependencies]
