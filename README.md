@@ -7,7 +7,6 @@
 - Allows the `Escape` key to be used to back out of the following screens:
   - Boon & Pom of Power selection
   - Selene's Hex selection
-  - Pact of Punishment menu
   - Death sequences
 - Provides a more consistent and intuitive menu navigation experience for KBM players.
 
